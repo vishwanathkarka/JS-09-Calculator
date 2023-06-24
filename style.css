@@ -29,6 +29,13 @@ border-radius: 12px;
   font-family: calender;
   font-size: 2rem;
 }
+
+[data-equal] {
+    height: 8rem;
+}
+[data-all-clear]{
+background:#feafbb;
+}
 .button{
     width:55px;
     height:55px;
