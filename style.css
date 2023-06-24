@@ -31,7 +31,7 @@ border-radius: 12px;
 }
 
 [data-equal] {
-    height: 8rem;
+    height: 7.5rem !important;
 }
 [data-all-clear]{
 background:#feafbb;
